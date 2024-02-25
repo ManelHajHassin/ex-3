@@ -1,0 +1,55 @@
+.result{
+   background: linear-gradient(rgb(2, 2, 75),blue);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 21rem;
+   height: 25rem;
+   border-radius: 1rem;
+}
+.title{
+    color: rgb(172, 192, 244);
+    font-size: 1rem;
+    font-weight: 800;
+}
+.average-of-100{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5rem;
+    background: linear-gradient(rgb(2, 2, 75),blue);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    
+
+}
+.average{
+    color: white;
+    font-size: 4rem;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+.ofhundred{
+    text-align: center;
+    color: rgb(172, 192, 244);
+    width: 50%;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+
+}
+.mention{
+    color: white;
+    font-size: 2rem;
+}
+.details{
+    color: rgb(172, 192, 244);
+    text-align: center;
+    width: 15rem;
+    margin-top: 0;
+}
+
+
